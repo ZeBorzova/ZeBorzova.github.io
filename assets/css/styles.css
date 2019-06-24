@@ -1,0 +1,12 @@
+[type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+  display: block;
+}
+
+.first {
+  position: relative;
+}
+
+.center {
+  justify-content: center;
+}
+
